@@ -1,0 +1,18 @@
+@charset "utf-8";
+.estilo1 {
+	font-family: "Century Gothic", Gulim;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-style: normal;
+}
+#estilo2 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #3FC;
+}
+h1 {
+	font-family: candara;
+	font-size: 36pt;
+	color: #FF0066;
+	text-align: justify;
+}
